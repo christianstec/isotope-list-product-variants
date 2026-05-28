@@ -19,7 +19,7 @@
     },
     "require":{
         "php": "^7.3 || ^8.0",
-        "contao/core-bundle": "^4.9 || ^5.3",
+        "contao/core-bundle": "^4.9 || ^5.7",
         "isotope/isotope-core": "^2.8"
     },
     "extra":{
